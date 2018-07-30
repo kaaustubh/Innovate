@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>0</string>
+		<key>title</key>
+		<string>Asset Condition</string>
+        <key>type</key>
+        <string>0</string>
+		<key>options</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Good</string>
+				<key>id</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>Needs Service</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>Needs Replacement</string>
+			</dict>
+		</array>
+	</dict>
+    <dict>
+        <key>id</key>
+        <string>1</string>
+        <key>title</key>
+        <string>Asset Fitting</string>
+        <key>type</key>
+        <string>2</string>
+        <key>options</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Good</string>
+                <key>id</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>title</key>
+                <string>Needs Service</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2</string>
+                <key>title</key>
+                <string>Needs Replacement</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3</string>
+                <key>title</key>
+                <string>Other</string>
+            </dict>
+        </array>
+    </dict>
+        <dict>
+            <key>id</key>
+            <string>2</string>
+            <key>type</key>
+            <string>1</string>
+            <key>title</key>
+            <string>Old Coupon Sr No</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>3</string>
+            <key>type</key>
+            <string>1</string>
+            <key>title</key>
+            <string>New Coupon Sr No</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>4</string>
+            <key>type</key>
+            <string>1</string>
+            <key>title</key>
+            <string>Site Observation</string>
+        </dict>
+    </array>
+</plist>
